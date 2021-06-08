@@ -114,6 +114,14 @@ body {
   background-image: url("img/icon-css.svg");
 }
 
+.skill-unity {
+  background-image: url("img/Unity.png");
+}
+
+.unity-href{
+color: white;
+}
+
 .level {
   margin: 4px 0 16px;
   padding: 0;
