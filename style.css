@@ -162,6 +162,16 @@ color: white;
   margin: 0 0 120px;
 }
 
+.flex-description{
+display: flex;
+justify-content: space-between;
+}
+
+.git-link{
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
 .projects {
   margin: 0;
   padding: 0;
